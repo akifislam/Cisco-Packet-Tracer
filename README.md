@@ -1,7 +1,12 @@
 # Cisco-Packet-Tracer
 This repository contains various network models and designs to learn Cisco Packet Tracer. This is also a part of my Computer Network Course.
 
-$ VLAN Setup on Switch
+<div align="center">
+ <img src="./Samples/CPT_Sample_1.png" height="378" width="763" />
+ <img src="./Samples/CPT_Sample_2.png" height="400" width="500" />
+</div>
+
+## VLAN Setup on Switch
 
 To add a device (connected with FastEthernet Port 0/1) to VLAN 101, simply write :
 
